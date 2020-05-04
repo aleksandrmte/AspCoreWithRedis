@@ -1,0 +1,9 @@
+/.vs
+/RedisBus.Common/obj
+/RedisBus.Common/bin
+/RedisBus.Core/obj
+/RedisBus.Core/bin
+/RedisBus.Web/obj
+/RedisBus.Web/bin
+/RedisBus.Worker/obj
+/RedisBus.Worker/bin

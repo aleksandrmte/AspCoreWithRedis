@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RedisBus.Core", "RedisBus.Core\RedisBus.Core.csproj", "{C5FA2AC2-5408-487C-8E59-C9A3443BA09F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RedisBus.Web", "RedisBus.Web\RedisBus.Web.csproj", "{21AE429B-75F8-4200-89E6-B0B61A34DCFF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RedisBus.Worker", "RedisBus.Worker\RedisBus.Worker.csproj", "{73697107-C968-4FA7-9C8B-B8F5C115A2EC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RedisBus.Common", "RedisBus.Common\RedisBus.Common.csproj", "{E2C7A1B7-2EAD-441B-9409-C8F1B13E8D87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5FA2AC2-5408-487C-8E59-C9A3443BA09F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5FA2AC2-5408-487C-8E59-C9A3443BA09F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5FA2AC2-5408-487C-8E59-C9A3443BA09F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5FA2AC2-5408-487C-8E59-C9A3443BA09F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21AE429B-75F8-4200-89E6-B0B61A34DCFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21AE429B-75F8-4200-89E6-B0B61A34DCFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21AE429B-75F8-4200-89E6-B0B61A34DCFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21AE429B-75F8-4200-89E6-B0B61A34DCFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73697107-C968-4FA7-9C8B-B8F5C115A2EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73697107-C968-4FA7-9C8B-B8F5C115A2EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73697107-C968-4FA7-9C8B-B8F5C115A2EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73697107-C968-4FA7-9C8B-B8F5C115A2EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2C7A1B7-2EAD-441B-9409-C8F1B13E8D87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2C7A1B7-2EAD-441B-9409-C8F1B13E8D87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2C7A1B7-2EAD-441B-9409-C8F1B13E8D87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2C7A1B7-2EAD-441B-9409-C8F1B13E8D87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06D09BB3-CF7E-41FF-A6A2-9501FE58E084}
+	EndGlobalSection
+EndGlobal
